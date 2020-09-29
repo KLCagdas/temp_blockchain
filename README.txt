@@ -1,3 +1,5 @@
+This code calculates temperature of 2-dimensional atom system. Atoms are formed in a block chain shape, which is a NxN matrix, and are allowed to move in 3-dimensional space randomly. Random movement may be converted to a deterministic movement later.
+
 DESCRIPTION FOR THE FILE "INPUT.TXT"
 
 It is a input file that contains the information user should provide. The following should be followed in order to prevent any errors.
