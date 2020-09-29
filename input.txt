@@ -1,0 +1,9 @@
+sideAtom: 50
+tSteps: 10000
+dt: 0.1
+k: 1.7
+ptclType: C
+mass: 1
+spacing: 3
+neighborStep: 0
+Tdesired : 20
